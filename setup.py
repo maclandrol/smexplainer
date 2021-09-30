@@ -6,7 +6,7 @@ install_requires = ["datamol", "requests-toolbelt"]
 
 setup(
     name="smexplainer",
-    version="0.0.1",
+    version="0.0.2",
     author="Emmanuel Noutahi",
     description="A python library to work with molecules. Built on top of RDKit.",
     python_requires=">=3.7",
