@@ -81,16 +81,16 @@ def explain(
     smarts = utils._format_smarts(smarts, ignore_error=ignore_error)
     params = dict(
         smarts=smarts,
-        vmode=vmode,
-        vbonds=vbonds,
-        textdesc=textdesc,
-        depsymbols=depsymbols,
-        smartsheading=smartsheading,
-        trim=trim,
-        labels=labels,
-        detectarom=detectarom,
-        cmode=cmode,
-        smileslikearom=smileslikearom,
+        vmode=int(vmode),
+        vbonds=int(vbonds),
+        textdesc=int(textdesc),
+        depsymbols=int(depsymbols),
+        smartsheading=int(smartsheading),
+        trim=int(trim),
+        labels=int(labels),
+        detectarom=int(detectarom),
+        cmode=int(cmode),
+        smileslikearom=int(smileslikearom),
         filetype=filetype,
     )
 

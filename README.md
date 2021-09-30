@@ -57,8 +57,8 @@ For a batch of smarts, you can use the `smexplainer.batch_explain` function inst
   - False = No
   - True = Yes (default)
 - `labels`: Show Atom Labels
-  - False = No (default)
-  - True = Yes
+  - False = No
+  - True = Yes (default)
 - `cmode`: Compare Mode: This only affects compare images
   - 1 = Search for Identical Patterns
   - 2 = Subset search from smarts
