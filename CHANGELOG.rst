@@ -9,6 +9,15 @@ v0.0.2
 
 **Authors:**
 
+* Emmanuel Noutahi
+
+
+
+v0.0.2
+====================
+
+**Authors:**
+
 
 
 
