@@ -8,6 +8,7 @@ setup(
     name="smexplainer",
     version="0.0.2",
     author="Emmanuel Noutahi",
+    author_email="emmanuel.noutahi@gmail.com",
     description="A python library to work with molecules. Built on top of RDKit.",
     python_requires=">=3.7",
     install_requires=install_requires,
