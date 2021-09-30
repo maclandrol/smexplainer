@@ -1,6 +1,6 @@
 # 👀 smarts-explainer
 
-SMARTS explainer is a small wrapper around the `[SMARTSviewer](https://smarts.plus/)` tool developped by ZBH for creating an easy to comprehend visualization for SMARTS expression.
+SMARTS explainer is a small wrapper around the `[SMARTSview](https://smarts.plus/)` tool developped at ZBH U. Hamburg for creating an easy to comprehend visualization for SMARTS expression. The concept was developed K. Schomburg and M. Rarey.
 
 ## Installation
 ---
@@ -19,7 +19,7 @@ mamba env create -f env.yml -n "smexplainer" && conda activate smexplainer
 pip install -e . 
 ```
 ## Usage
-
+---
 ```python
 
 import smexplainer
@@ -78,6 +78,7 @@ For a batch of smarts, you can use the `smexplainer.batch_explain` function inst
 
 
 ## Reference
+---
 For more information about the explainer, [see the corresponding paper](https://pubs.acs.org/doi/abs/10.1021/ci100209a):
 
 ```
@@ -94,13 +95,14 @@ For more information about the explainer, [see the corresponding paper](https://
 ```
 
 ## Changelogs
-
+---
 See the latest changelogs at [CHANGELOG.rst](./CHANGELOG.rst).
 
 ## License
-
+---
 The `smexplainer` is under the Apache-2.0 license. See [LICENSE](LICENSE). But the original work is copyrighted by *"SMARTSviewer smartsview.zbh.uni-hamburg.de, ZBH Center for Bioinformatics, University of Hamburg"*
 
 ## Authors
 
 See [AUTHORS.rst](./AUTHORS.rst).
+
