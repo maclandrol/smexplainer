@@ -1,6 +1,6 @@
 # 👀 smarts-explainer
 
-SMARTS explainer is a small wrapper around the `[SMARTSview](https://smarts.plus/)` tool developped at ZBH U. Hamburg for creating an easy to comprehend visualization for SMARTS expression. The concept was developed K. Schomburg and M. Rarey.
+SMARTS explainer is a small wrapper around the `[SMARTSview](https://smarts.plus/)` tool developped at ZBH U. Hamburg for creating an easy to comprehend visualization for SMARTS expression. The concept was developed by K. Schomburg and M. Rarey.
 
 ## Installation
 ---
