@@ -7,6 +7,15 @@ smexplainer Change Log
 v0.0.2
 ====================
 
+**Authors:**
+
+* Emmanuel Noutahi
+
+
+
+v0.0.2
+====================
+
 **Fixed:**
 
 * Bug in param encoding
