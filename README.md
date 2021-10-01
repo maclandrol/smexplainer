@@ -1,13 +1,13 @@
 # 👀 smarts-explainer
 
-SMARTS explainer is a small wrapper around the `[SMARTSview](https://smarts.plus/)` tool developped at ZBH U. Hamburg for creating an easy to comprehend visualization for SMARTS expression. The concept was developed by K. Schomburg and M. Rarey.
+SMARTS explainer is a small wrapper around the [SMARTSview](https://smarts.plus/) tool developped at ZBH U. Hamburg for creating an easy to comprehend visualization for SMARTS expression. The concept was developed by K. Schomburg and M. Rarey.
 
 ## Installation
 ---
 
 `smarts-explainer` requires `datamol` and `requests-toolbelt`. You can install it as follows
 ```shell
-pip install smarts-explainer
+pip install smexplainer
 ```
 
 Alternatively, download, install the dependency then install it with:
