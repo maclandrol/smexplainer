@@ -4,39 +4,6 @@ smexplainer Change Log
 
 .. current developments
 
-v0.0.2
-====================
-
-**Authors:**
-
-
-
-
-v0.0.2
-====================
-
-**Authors:**
-
-* Emmanuel Noutahi
-
-
-
-v0.0.2
-====================
-
-**Authors:**
-
-
-
-
-v0.0.2
-====================
-
-**Authors:**
-
-* Emmanuel Noutahi
-
-
 
 v0.0.2
 ====================
